@@ -1,5 +1,5 @@
 <!--s-->
-## github-pages + reveal-md = awesome
+## let's check this out
 
 * write your slides in markdown <!-- .element: class="fragment" data-fragment-index="0" -->
 * commit them to github <!-- .element: class="fragment" data-fragment-index="1" -->
